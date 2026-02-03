@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>오늘의핏 홈쇼핑</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  🔥 오늘의핏 의류 특가 🔥
+</header>
+
+<div class="product">
+  <img src="https://images.unsplash.com/photo-1521572163474-6864f9cf17ab">
+  <h2>스트릿 후드티</h2>
+  <p class="price">59,000원</p>
+  <button>지금 주문하기</button>
+</div>
+
+</body>
+</html>
